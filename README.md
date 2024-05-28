@@ -24,3 +24,14 @@ Docker for Data Engineering
 ![image](https://github.com/Arwa-Fawzy/Docker-for-Data-Engineering/assets/101527083/72213efc-2c63-4df8-b434-653de3c81ae3)
 
 ![image](https://github.com/Arwa-Fawzy/Docker-for-Data-Engineering/assets/101527083/93e5da59-eec0-46a1-a483-1d0bdd30a08e)
+
+
+![image](https://github.com/Arwa-Fawzy/Docker-for-Data-Engineering/assets/101527083/d007c068-93dc-4f10-b0b4-7e034c8e6447)
+
+A volume mount is a great choice when you need somewhere persistent to store your application data by a tool called nodemon.
+
+![image](https://github.com/Arwa-Fawzy/Docker-for-Data-Engineering/assets/101527083/fc6160e6-58c0-456d-8b55-0e15dfa9f1ba)
+
+![image](https://github.com/Arwa-Fawzy/Docker-for-Data-Engineering/assets/101527083/4f02b01d-4a0a-4e00-be55-65ee223bd43f)
+
+![image](https://github.com/Arwa-Fawzy/Docker-for-Data-Engineering/assets/101527083/bd84851f-0770-4927-8cb0-11995435fbd2)
